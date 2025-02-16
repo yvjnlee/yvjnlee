@@ -5,9 +5,9 @@
 - a simple trading engine in C# with a FIFO matching algorithm and TCP/IP connectivity
 
 #### 🤔 im looking to start ...
-- implementing different quantum algorithms w/ qiskit
-- experimenting with different applications of fpgas (hft, llm, etc)
-- creating an llm from scratch (ty mr. andrej karpathy)
+- implementing different quantum algorithms (learning qiskit)
+- learning about different applications of fpgas (hft, llm, etc)
+- creating an llm from scratch (via andrej karpathy videos)
 - playing around with crypto/blockchain technology (not rly sure where to start here)
 
 ## 
