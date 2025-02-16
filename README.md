@@ -11,4 +11,4 @@
 - playing around with crypto/blockchain technology (not rly sure where to start here)
 
 ## 
-###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/ygnlee](https://www.linkedin.com/in/ygnlee/)
+###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/ygnlee](https://www.linkedin.com/in/ygnlee/) <br> leetcode : [leetcode.com/u/yvjnlee/](https://leetcode.com/u/yvjnlee/)
