@@ -3,9 +3,9 @@
 
 #### 🔭 currently working on ...
 - school...
-- quantitative finance in crypto markets
 
 #### 🤔 looking to start ...
+- experimenting more with AI agents
 - learn qiskit via IBM's online courses
 - explore how Hedera implements verifiable compute
 
