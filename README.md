@@ -1,5 +1,5 @@
 ## eugene lee
-###### 🪿 3A computer engineering @ university of waterloo <br> 💼 prev @ uoft, uw, cyberfilm ai, foqus technology <br> 🌱 seeking 2025 spring internship opportunities
+###### 🪿 3A computer engineering @ university of waterloo <br> 💼 prev @ uoft, uw, cyberfilm ai, foqus technology <br> 🌱 incoming @ coval
 
 #### 🔭 currently working on ...
 - school...
