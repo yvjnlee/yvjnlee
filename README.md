@@ -3,10 +3,10 @@
 
 ![gif](https://pa1.aminoapps.com/6782/af5ace54dc2f7a01bec7f9882c8e36e5a75a2841_hq.gif)
 
-#### 🔭 currently working on ...
+#### 🔭 currently building ...
 - continuous benchmarking @ coval
-- quant platform for deploying trading strategies using FPGA-powered signals
-- agent framework to leverage small language models + small data w/ larger context windows
+- quant platform for individuals
+- privacy first personal assistant
 
 ## 
 ###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/yvjnlee](https://www.linkedin.com/in/yvjnlee/) <br> leetcode : [leetcode.com/u/yvjnlee/](https://leetcode.com/u/yvjnlee/)
