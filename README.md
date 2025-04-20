@@ -5,8 +5,8 @@
 
 #### 🔭 currently building ...
 - continuous benchmarking @ coval
-- quant platform for individuals
-- privacy first personal assistant
+- platform to easily deploy and test trading strategies
+- personal assistant focused on personal data control
 
 ## 
 ###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/yvjnlee](https://www.linkedin.com/in/yvjnlee/) <br> leetcode : [leetcode.com/u/yvjnlee/](https://leetcode.com/u/yvjnlee/)
