@@ -5,7 +5,6 @@
 
 #### 🔭 currently building ...
 - continuous benchmarking @ coval
-- platform to easily deploy and test trading strategies
 - personal assistant focused on personal data control
 
 ## 
