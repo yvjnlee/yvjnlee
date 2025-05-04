@@ -6,6 +6,7 @@
 #### 🔭 currently building ...
 - continuous benchmarking @ coval
 - personal assistant focused on personal data control
+- custom trading engine
 
 ## 
 ###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/yvjnlee](https://www.linkedin.com/in/yvjnlee/) <br> leetcode : [leetcode.com/u/yvjnlee/](https://leetcode.com/u/yvjnlee/)
