@@ -4,7 +4,7 @@
 ![gif](https://pa1.aminoapps.com/6782/af5ace54dc2f7a01bec7f9882c8e36e5a75a2841_hq.gif)
 
 #### 🔭 currently building ...
-- continuous benchmarking @ coval
+- building @ coval
 - personal assistant focused on personal data control
 - custom trading engine
 
