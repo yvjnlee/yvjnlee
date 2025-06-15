@@ -4,9 +4,8 @@
 ![gif](https://pa1.aminoapps.com/6782/af5ace54dc2f7a01bec7f9882c8e36e5a75a2841_hq.gif)
 
 #### 🔭 currently building ...
-- building voice eval @ coval
-- personal assistant focused on personal data control
-- custom trading engine
+- voice sim + eval @ coval
+- everyday ai assistant @ anorvis 
 
 ## 
 ###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/yvjnlee](https://www.linkedin.com/in/yvjnlee/) <br> leetcode : [leetcode.com/u/yvjnlee/](https://leetcode.com/u/yvjnlee/)
