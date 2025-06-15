@@ -5,7 +5,7 @@
 
 #### 🔭 currently building ...
 - voice sim + eval @ coval
-- a lifelong assistant @ anorvis 
+- a network of assistant @ anorvis 
 
 ## 
 ###### email : [e33lee@uwaterloo.ca](mailto:e33lee@uwaterloo.ca) <br> linkedin : [linkedin.com/in/yvjnlee](https://www.linkedin.com/in/yvjnlee/) <br> leetcode : [leetcode.com/u/yvjnlee/](https://leetcode.com/u/yvjnlee/)
