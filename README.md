@@ -1,5 +1,5 @@
 ## eugene lee
-###### 🪿 3B computer engineering @ university of waterloo <br> 💼 prev @ coval (yc24) <br> 🌱 currently @ sierra
+###### 🪿 4A computer engineering @ university of waterloo <br> 💼 prev @ coval (yc24) <br> 🌱 currently @ sierra
 
 ![gif](https://pa1.aminoapps.com/6782/af5ace54dc2f7a01bec7f9882c8e36e5a75a2841_hq.gif)
 
